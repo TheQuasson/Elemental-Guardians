@@ -7,9 +7,6 @@ from os import path
 pg.init()
 #initialises the game
 
-#https://www.youtube.com/watch?v=s5bd9KMSSW4
-
-
 #RGB values for colours used throughout the code
 CYAN = (52,78,91)
 WHITE = (255,255,255)
